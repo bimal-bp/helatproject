@@ -4,3 +4,4 @@ numpy
 nltk
 joblib
 scikit-learn
+xgboost
